@@ -1,0 +1,84 @@
+body {
+    background-color: rgba(159, 230, 233, 0.719);
+}
+p.comunidad {
+    text-align: center;
+    font-family: 'DotGothic16', sans-serif;
+    src: url(fuente/DotGothic16-Regular.ttf);
+    color: yellow;
+    font-size: xx-large;
+}
+div.alicante {
+    background-color: brown;
+}
+img.alicante {
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 450px;
+}
+p.alicante {
+    position: relative;
+    left: 450px;
+}
+img.valencia {
+    width: 200px;
+    height: 100px;
+}
+p.centro {
+    text-align: center;
+}
+p.valencia {
+    position: relative;
+    left: 690px;
+}
+img.castellon {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 950px;
+}
+div.valencia {
+    background-color: yellow;
+}
+div.castellon {
+    background-color: violet;
+}
+p.castellon {
+    position: relative;
+    left: 950px;
+}
+p.centrado {
+    text-align: center;
+}
+div.centrado {
+    background-color: white;
+}
+span.centrado {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
